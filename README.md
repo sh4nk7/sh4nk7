@@ -4,7 +4,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Attualmente sto frequentando il secondo anno del corso di laurea magistrale in ingegneria informatica all'Università di Parma, con specializzazione in Intelligenza Artificiale. Lavoro come Consulente e mi occupo di Unit test e test di integrazione.
+🔭 Attualmente sto frequentando il corso di laurea magistrale in ingegneria informatica all'Università di Parma, con specializzazione in Intelligenza Artificiale. Lavoro come Consulente e mi occupo di Unit test e test di integrazione.
 
 💬 Sentiti libero di chiedermi informazioni sui miei progetti!
 
