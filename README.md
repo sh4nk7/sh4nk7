@@ -9,46 +9,26 @@
 💬 Sentiti libero di chiedermi informazioni sui miei progetti!
 
 ## 🌐 Socials:
-- [Facebook](#) ![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)
-- [Instagram](#) ![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?logo=instagram)
-- [LinkedIn](#) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)
+ ![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)
+ [Instagram](#) ![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?logo=instagram)
+ [LinkedIn](#) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)
 
 ## 💻 Tech Stack:
-- **Linguaggi:** 
-  - ![C#](https://img.shields.io/badge/C%23-Intermediate-brightgreen)
-  - ![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange)
-  - ![Java](https://img.shields.io/badge/Java-Expert-red)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
-  - ![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-  - ![Lua](https://img.shields.io/badge/Lua-Beginner-lightgrey)
 
-- **Framework e Librerie:** 
-  - ![.NET](https://img.shields.io/badge/.NET-Advanced-purple)
-  - ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-blueviolet)
-  - ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-lightgrey)
-  - ![NodeJS](https://img.shields.io/badge/NodeJS-Expert-green)
-  - ![React](https://img.shields.io/badge/React-Advanced-blue)
-  - ![SASS](https://img.shields.io/badge/SASS-Beginner-pink)
-
-- **Database:** 
-  - ![MySQL](https://img.shields.io/badge/MySQL-Expert-blue)
-  - ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-green)
-  - ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-Advanced-orange)
-  - ![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-lightgrey)
-
-- **Data Science & Machine Learning:** 
-  - ![NumPy](https://img.shields.io/badge/NumPy-Intermediate-yellow)
-  - ![Keras](https://img.shields.io/badge/Keras-Advanced-red)
-  - ![Pandas](https://img.shields.io/badge/Pandas-Expert-blue)
-  - ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-purple)
-  - ![scikit-learn](https://img.shields.io/badge/scikit--learn-Intermediate-green)
-  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-orange)
-  - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Intermediate-blue)
-  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-Beginner-lightgrey)
-  - ![Seaborn](https://img.shields.io/badge/Seaborn-Beginner-lightgrey)
-  - ![OpenCV](https://img.shields.io/badge/OpenCV-Beginner-lightgrey)
-  - ![NLTK](https://img.shields.io/badge/NLTK-Beginner-lightgrey)
-  - ![SciPy](https://img.shields.io/badge/SciPy-Beginner-lightgrey)
+| Linguaggi               | Framework e Librerie           | Database                      | Data Science & ML                  |
+|-------------------------|-------------------------------|-------------------------------|-----------------------------------|
+| ![C#](https://img.shields.io/badge/C%23-Intermediate-brightgreen) | ![.NET](https://img.shields.io/badge/.NET-Advanced-purple) | ![MySQL](https://img.shields.io/badge/MySQL-Expert-blue) | ![NumPy](https://img.shields.io/badge/NumPy-Intermediate-yellow) |
+| ![C](https://img.shields.io/badge/C-Intermediate-brightgreen)   | ![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-blueviolet) | ![SQLite](https://img.shields.io/badge/SQLite-Intermediate-green) | ![Keras](https://img.shields.io/badge/Keras-Advanced-red) |
+| ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-brightgreen) | ![Express.js](https://img.shields.io/badge/Express.js-Intermediate-lightgrey) | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-Advanced-orange) | ![Pandas](https://img.shields.io/badge/Pandas-Expert-blue) |
+| ![LaTeX](https://img.shields.io/badge/LaTeX-Intermediate-yellow) | ![NodeJS](https://img.shields.io/badge/NodeJS-Expert-green) | ![MongoDB](https://img.shields.io/badge/MongoDB-Beginner-lightgrey) | ![PyTorch](https://img.shields.io/badge/PyTorch-Advanced-purple) |
+| ![HTML5](https://img.shields.io/badge/HTML5-Advanced-orange) | ![React](https://img.shields.io/badge/React-Advanced-blue) | | ![scikit-learn](https://img.shields.io/badge/scikit--learn-Intermediate-green) |
+| ![Java](https://img.shields.io/badge/Java-Expert-red) | ![Angular](https://img.shields.io/badge/Angular-Advanced-red) | | ![TensorFlow](https://img.shields.io/badge/TensorFlow-Expert-orange) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow) | ![jQuery](https://img.shields.io/badge/jQuery-Beginner-lightgrey) | | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-Intermediate-blue) |
+| ![PHP](https://img.shields.io/badge/PHP-Intermediate-blue) | | | ![Matplotlib](https://img.shields.io/badge/Matplotlib-Beginner-lightgrey) |
+| ![Python](https://img.shields.io/badge/Python-Intermediate-blue) | | | ![Seaborn](https://img.shields.io/badge/Seaborn-Beginner-lightgrey) |
+| ![Rust](https://img.shields.io/badge/Rust-Beginner-lightgrey) | | | ![OpenCV](https://img.shields.io/badge/OpenCV-Beginner-lightgrey) |
+| ![Haskell](https://img.shields.io/badge/Haskell-Beginner-lightgrey) | | | ![NLTK](https://img.shields.io/badge/NLTK-Beginner-lightgrey) |
+| | | | ![SciPy](https://img.shields.io/badge/SciPy-Beginner-lightgrey) |
 
 
 ## 💻 Tech Stack:
