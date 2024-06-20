@@ -1,3 +1,6 @@
+<!-- Include Font Awesome CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-XXX" crossorigin="anonymous" />
+
 ## Hi there 👋
 
 # 💫 About Me:
@@ -6,9 +9,47 @@
 💬 Sentiti libero di chiedermi informazioni sui miei progetti!
 
 ## 🌐 Socials:
-- [Facebook](#)
-- [Instagram](#)
-- [LinkedIn](#)
+- [Facebook](#) <i class="fab fa-facebook"></i>
+- [Instagram](#) <i class="fab fa-instagram"></i>
+- [LinkedIn](#) <i class="fab fa-linkedin"></i>
+
+## 💻 Tech Stack:
+- **Linguaggi:** 
+  - C# 
+  - HTML5 
+  - Java 
+  - JavaScript 
+  - Python 
+  - ![Lua](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/285/flag-for-scotland_1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png) Lua
+  
+- **Framework e Librerie:** 
+  - .NET 
+  - Bootstrap 
+  - Express.js 
+  - NodeJS 
+  - React 
+  - SASS 
+
+- **Database:** 
+  - MySQL 
+  - SQLite 
+  - Microsoft SQL Server 
+  - MongoDB
+
+- **Data Science & Machine Learning:** 
+  - NumPy 
+  - Keras 
+  - Pandas 
+  - PyTorch 
+  - scikit-learn 
+  - TensorFlow 
+  - Jupyter Notebook 
+  - Matplotlib 
+  - Seaborn 
+  - OpenCV 
+  - NLTK 
+  - SciPy
+
 
 ## 💻 Tech Stack:
 - **Linguaggi:** C#, C, C++, LaTeX, HTML5, Java, JavaScript, PHP, Python, Rust, Haskell
