@@ -4,7 +4,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Attualmente frequento il corso di Laurea Magistrale in Ingegneria Informatica presso l'Università di Parma, con specializzazione in Intelligenza Artificiale e Machine Learning.
+🔭 Attualmente frequento il corso di Laurea Magistrale in Ingegneria Informatica presso l'Università di Parma, con specializzazione in Intelligenza Artificiale.
 
 ## 🌐 Socials:
  ![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)
