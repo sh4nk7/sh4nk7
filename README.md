@@ -4,39 +4,155 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 Attualmente sto frequentando il corso di laurea magistrale in ingegneria informatica all'Università di Parma, con specializzazione in Intelligenza Artificiale. Lavoro come Consulente e mi occupo di Unit test e test di integrazione.
-
-💬 Sentiti libero di chiedermi informazioni sui miei progetti!
+🔭 Attualmente frequento il corso di Laurea Magistrale in Ingegneria Informatica presso l'Università di Parma, con specializzazione in Intelligenza Artificiale e Machine Learning.
 
 ## 🌐 Socials:
  ![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?logo=facebook)
  ![Instagram](https://img.shields.io/badge/Instagram-Profile-orange?logo=instagram)
  ![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)
 
-## 💻 Tech Stack:
+## 🤖 Interests
 
-| Linguaggi               | Framework e Librerie           | Database                      | Data Science & ML                  |
-|-------------------------|-------------------------------|-------------------------------|-----------------------------------|
-| ![C#](https://img.shields.io/badge/C%23-brightgreen) | ![.NET](https://img.shields.io/badge/.NET-purple) | ![MySQL](https://img.shields.io/badge/MySQL-blue) | ![NumPy](https://img.shields.io/badge/NumPy-yellow) |
-| ![C](https://img.shields.io/badge/C-brightgreen)   | ![Bootstrap](https://img.shields.io/badge/Bootstrap-blueviolet) | ![SQLite](https://img.shields.io/badge/SQLite-green) | ![Keras](https://img.shields.io/badge/Keras-red) |
-| ![C++](https://img.shields.io/badge/C%2B%2B-brightgreen) | ![Express.js](https://img.shields.io/badge/Express.js-lightgrey) | ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-orange) | ![Pandas](https://img.shields.io/badge/Pandas-blue) |
-| ![LaTeX](https://img.shields.io/badge/LaTeX-yellow) | ![NodeJS](https://img.shields.io/badge/NodeJS-green) | ![MongoDB](https://img.shields.io/badge/MongoDB-lightgrey) | ![PyTorch](https://img.shields.io/badge/PyTorch-purple) |
-| ![HTML5](https://img.shields.io/badge/HTML5-orange) | ![React](https://img.shields.io/badge/React-blue) | | ![scikit-learn](https://img.shields.io/badge/scikit--learn-green) |
-| ![Java](https://img.shields.io/badge/Java-red) | ![Angular](https://img.shields.io/badge/Angular-red) | | ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) | ![jQuery](https://img.shields.io/badge/jQuery-lightgrey) | | ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-blue) |
-| ![PHP](https://img.shields.io/badge/PHP-blue) | | | ![Matplotlib](https://img.shields.io/badge/Matplotlib-lightgrey) |
-| ![Python](https://img.shields.io/badge/Python-blue) | | | ![Seaborn](https://img.shields.io/badge/Seaborn-lightgrey) |
-| ![Rust](https://img.shields.io/badge/Rust-lightgrey) | | | ![OpenCV](https://img.shields.io/badge/OpenCV-lightgrey) |
-| ![Haskell](https://img.shields.io/badge/Haskell-lightgrey) | | | ![NLTK](https://img.shields.io/badge/NLTK-lightgrey) |
-| | | | ![SciPy](https://img.shields.io/badge/SciPy-lightgrey) |
+- Artificial Intelligence (AI)
+- Large Language Models (LLMs)
+- Agentic AI Systems
+- Deep Learning
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning for Business Processes
 
+---
 
+## 🛠️ Technologies & Tools
 
-## 💻 Tech Stack:
-- **Linguaggi:** C#, C, C++, LaTeX, HTML5, Java, JavaScript, PHP, Python, Rust, Haskell
-- **Framework e Librerie:** .NET, Bootstrap, Express.js, NodeJS, React, Angular, jQuery
-- **Database:** MySQL, SQLite, Microsoft SQL Server, MongoDB
-- **Data Science & Machine Learning:** NumPy, Keras, Pandas, PyTorch, scikit-learn, TensorFlow, Jupyter Notebook, Matplotlib, Seaborn, OpenCV, NLTK, SciPy
+| AI & ML | Backend & DevOps | Database & Vector DB |
+|----------|----------|----------|
+| Python | FastAPI | PostgreSQL |
+| OpenAI API | Docker | Qdrant |
+| Hugging Face | Git | ChromaDB |
+| LangChain | Linux | SQLite |
+| LangGraph | REST APIs | |
+| Ollama | n8n | |
+
+---
+
+## 📚 Current Projects
+
+- Multi-Agent Systems
+- AI-powered Business Automation
+- Document Intelligence
+- Automated Document Classification
+- Generative AI Applications
+- Retrieval-Augmented Generation (RAG) Pipelines
+- LLM-powered Enterprise Solutions
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become an **AI Engineer / Agentic AI Engineer**, designing and developing intelligent systems based on **Large Language Models (LLMs)**, **AI Agents**, **RAG architectures**, and **advanced automation workflows** to help organizations improve efficiency, decision-making, and digital transformation.
+
+---
+
+## 🌱 Currently Learning
+
+- Agentic AI Architectures
+- Multi-Agent Systems
+- LangGraph
+- Advanced RAG Pipelines
+- LLM Evaluation & Benchmarking
+- MLOps for Generative AI
+- AI Workflow Automation with n8n
+- Open-Source LLM Deployment (Ollama)
+
+---
+
+## 💻 Tech Stack
+
+### 🖥️ Languages
+- C#
+- C
+- C++
+- Python
+- Java
+- JavaScript
+- PHP
+- Rust
+- Haskell
+- HTML5
+- LaTeX
+
+### 🚀 Backend & APIs
+- .NET
+- FastAPI
+- Flask
+- Node.js
+- Express.js
+- REST APIs
+- OpenAPI / Swagger
+
+### 🎨 Frontend
+- React
+- Angular
+- Bootstrap
+- jQuery
+
+### 🗄️ Databases
+- PostgreSQL
+- MySQL
+- SQLite
+- Microsoft SQL Server
+- MongoDB
+
+### 🔍 Vector Databases & Search
+- Qdrant
+- ChromaDB
+- FAISS
+
+### 🤖 Artificial Intelligence & LLMs
+- OpenAI API
+- Hugging Face
+- Ollama
+- LangChain
+- LangGraph
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- AI Agents
+- Multi-Agent Systems
+
+### 📊 Data Science & Machine Learning
+- NumPy
+- Pandas
+- SciPy
+- Scikit-learn
+- TensorFlow
+- Keras
+- PyTorch
+- OpenCV
+- NLTK
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+
+### 🐳 DevOps & Infrastructure
+- Docker
+- Linux
+- Git
+- GitHub Actions
+- CI/CD
+
+### 🔄 Automation & Workflow
+- n8n
+- AI Workflow Automation
+- Document Processing Pipelines
+
+### ☁️ Tools & Platforms
+- VS Code
+- PyCharm
+- Postman
+- Anaconda
+- Ubuntu
+- Windows
+
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sh4nk7&show_icons=true&theme=dark)
